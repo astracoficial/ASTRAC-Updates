@@ -1,6 +1,6 @@
 {
-  "version": "1.9.168",
-  "zipUrl": "https://github.com/astracoficial/ASTRAC-Updates/releases/download/v1.9.168/ASTRAC_v1.9.168-win-x64.zip",
-  "sha256": "13739c44847a2e865b9393a8b9a3ab68cac7cd4ab6ef7709bf7984cc0c5dd863",
-  "notes": "Nuevo icono oficial de ASTRAC y prueba de instalación automática."
+  "version": "1.9.169",
+  "zipUrl": "https://github.com/astracoficial/ASTRAC-Updates/releases/download/v1.9.169/ASTRAC_v1.9.169-win-x64.zip",
+  "sha256": "97631825f8fffc87874b841780c8d8f93bd5640f536a91f1437a2a5dbbf5253b",
+  "notes": "ASTRAC v1.9.169: avisos de actualización, progreso de descarga, novedades, recordarme después y mejoras del instalador."
 }
